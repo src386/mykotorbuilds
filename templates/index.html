@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="content">
+
+  {{ section.content | safe }}
+
+  <h2 class="subtitle">All builds</h2>
+
+  {% set index = get_section(path="_index.md") %}
+  {% for s in index.subsections %}
+    <ul>
+    {% set subsection = get_section(path=s) %}
+      <li>{{ subsection.title }}
+        <ul>
+        {% for page in subsection.pages %}
+          <li><a href="{{ page.permalink}}">{{ page.title }}</a></li>
+        </ul>
+        {% endfor %}    
+    </ul>
+  {% endfor %}
+
+</div>
+
+{% endblock content %}

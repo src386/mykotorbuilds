@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/icons/favicon-48x48.png">
+  <!-- Bulma CSS-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
+  
+  <title>
+    {% block title %}
+      {%- if page.title -%}
+        {{ page.title }}
+      {%- else -%}
+        {{ config.title }}
+      {%- endif -%}
+    {% endblock title %}
+  </title>
+
+</head>
+
+<body>
+
+  <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="container is-max-widescreen">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{ config.base_url }}">
+        <img src="/icons/favicon-48x48.png" style="padding-right: 10px;"> 
+        <h1 class="title is-4" style="color: white;">
+          {{ config.title|upper }}
+        </h1>
+      </a>
+  
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+  
+    <div class="navbar-menu" id="navMenu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="{{ config.base_url }}">
+          Home
+        </a>
+
+        {% set index = get_section(path="_index.md") %}
+        {% for s in index.subsections %}
+          {% set subsection = get_section(path=s) %}
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              {{ subsection.title }}
+            </a>
+
+            <div class="navbar-dropdown">
+            {% for page in subsection.pages %}
+              <a class="navbar-item" href="{{ page.permalink }}">
+                {{ page.title }}
+              </a>
+            {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="navbar-end">
+        <div class="navbar-item">
+          <div class="buttons">
+            <a class="button is-light" href="https://github.com/src386/kotorbuilds">
+              View on github
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </nav>
+
+  <section class="section main-content container is-max-widescreen">
+    {% block content %} {% endblock %}
+  </section>
+
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        Powered by <a href="https://www.getzola.org/">Zola</a> 
+        and <a href="https://bulma.io/">Bulma</a>.
+      </p>
+    </div>
+  </footer>
+
+  <!-- JS Scripts -->
+  <script src="/js/navbar.js"></script>
+
+</body>
+
+</html>
