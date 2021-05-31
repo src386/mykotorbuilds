@@ -17,6 +17,11 @@ jobs:
       -
         name: Checkout
         uses: actions/checkout@v2
+        with:
+          lfs: true
+      -
+        name: Checkout LFS objects
+        run: git lfs checkouts
       -
         name: Set up QEMU
         uses: docker/setup-qemu-action@v1
