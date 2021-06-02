@@ -6,6 +6,18 @@ page_template = "build.html"
 levels      = 20
 
 [extra.map.feats]
+"Implant Level 1" = [
+  "KotOR_Feat_Implant_Level_1.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Feats#Implant"
+]
+"Implant Level 2" = [
+  "KotOR_Feat_Implant_Level_2.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Feats#Implant"
+]
+"Implant Level 3" = [
+  "KotOR_Feat_Implant_Level_3.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Feats#Implant"
+]
 "Improved Rapid Shot" = [
   "KotOR_Feat_Improved_Rapid_Shot.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Feats#Rapid_Shot"
@@ -163,6 +175,34 @@ levels      = 20
 "Baragwin Stealth Unit" = [
   "KotOR_Item_Baragwin_Stealth_Unit.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Belts#Baragwin_Stealth_Unit"
+]
+"Carth's Blaster" = [
+  "KotOR_Item_Carth's_Blaster.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Blaster_pistols#Carth.27s_Blaster"
+]
+"Bendak's Blaster" = [
+  "KotOR_Item_Bendak's_Blaster.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Blaster_pistols#Bendak.27s_Blaster"
+]
+"Combat Sensor" = [
+  "KotOR_Item_Combat_Sensor.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Head#Combat_Sensor"
+]
+"Circlet of Saresh" = [
+  "KotOR_Item_Circlet_of_Saresh.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Head#Circlet_of_Saresh"
+]
+"Response Package" = [
+  "KotOR_Item_Response_Package.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Implants#Response_Package"
+]
+"Cassus Fett's Heavy Pistol" = [
+  "KotOR_Item_Cassus_Fett's_Heavy_Pistol.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Blaster_pistols#Cassus_Fett.27s_Heavy_Pistol"
+]
+"Mandalorian Heavy Pistol" = [
+  "KotOR_Item_Mandalorian_Heavy_Pistol.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Blaster_pistols#Mandalorian_Heavy_Pistol"
 ]
 
 +++
