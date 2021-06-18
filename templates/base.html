@@ -48,14 +48,14 @@
 
         {% set index = get_section(path="_index.md") %}
         {% for s in index.subsections %}
-          {% set subsection = get_section(path=s) %}
+          {% set section = get_section(path=s) %}
           <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link">
-              {{ subsection.title }}
+              {{ section.title }}
             </a>
 
             <div class="navbar-dropdown">
-            {% for page in subsection.pages %}
+            {% for page in section.pages %}
               <a class="navbar-item" href="{{ page.permalink }}">
                 {{ page.title }}
               </a>
@@ -64,6 +64,9 @@
           </div>
         {% endfor %}
       </div>
+
+      
+
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
