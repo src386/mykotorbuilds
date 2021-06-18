@@ -1,5 +1,5 @@
 +++
-title         = "KOTOR builds"
+title         = "KOTOR"
 page_template = "build.html"
 
 [extra]
