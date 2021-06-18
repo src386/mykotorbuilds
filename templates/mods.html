@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block title %}
+  {{ page.title }}
+{% endblock %}
+
+{% block content %}
+
+{# Load current section variables #}
+
+  {% set current_section = get_section(path=page.ancestors|last) %}
+
+{# End load section variables #}
+
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ config.base_url }}">Home</a></li>
+    <li><a href="#">{{ current_section.title }}</a></li>
+    <li class="is-active"><a href="#" aria-current="page">{{ page.title }}</a></li>
+  </ul>
+</nav>
+
+<div class="content">
+
+  {% if page.extra.mod %}
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Mod</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for mod in page.extra.mod %}
+      <tr>
+        <td>
+          {% if mod.url %}<a href="{{ mod.url }}">{{ mod.name }}</a>
+          {% else %}{{ mod.name }}{% endif %}
+        </td>
+          {% if mod.desc %}
+            <td>{{ mod.desc }}</td>
+          {% endif %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  {% endif %}
+
+</div>
+
+{{ page.content | safe }}
+
+{% endblock content %}
