@@ -24,11 +24,14 @@
 
   {% if page.extra.mod %}
 
+  <h2 class="subtitle">Mods that I like</h2>
+
   <table class="table">
     <thead>
       <tr>
         <th>Mod</th>
         <th>Description</th>
+        <th>Depends on</th>
       </tr>
     </thead>
     <tbody>
@@ -39,7 +42,14 @@
           {% else %}{{ mod.name }}{% endif %}
         </td>
           {% if mod.desc %}
-            <td>{{ mod.desc }}</td>
+            <td>{{ mod.desc|safe }}</td>
+          {% else %}
+            <td></td>
+          {% endif %}
+          {% if mod.dep %}
+            <td>{{ mod.dep }}</td>
+          {% else %}
+            <td>-</td>
           {% endif %}
       </tr>
       {% endfor %}
