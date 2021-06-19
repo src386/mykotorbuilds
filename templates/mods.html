@@ -41,13 +41,13 @@
           {% if mod.url %}<a href="{{ mod.url }}">{{ mod.name }}</a>
           {% else %}{{ mod.name }}{% endif %}
         </td>
-          {% if mod.desc %}
-            <td>{{ mod.desc|safe }}</td>
+          {% if mod.description %}
+            <td>{{ mod.description|safe }}</td>
           {% else %}
             <td></td>
           {% endif %}
-          {% if mod.dep %}
-            <td>{{ mod.dep }}</td>
+          {% if mod.depends %}
+            <td>{{ mod.depends }}</td>
           {% else %}
             <td>-</td>
           {% endif %}
