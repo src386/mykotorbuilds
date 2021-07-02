@@ -8,11 +8,11 @@ picture     = "/images/1w_rifle.jpg"
 status      = "In progress"
 
   [extra.attributes]
-  strength     = [10,10,10,10,10,10]
+  strength     = [8,8,8,8,8,8]
   dexterity    = [16,16,17,17,18,19]
   constitution = [13,13,13,14,14,14]
   intelligence = [14,14,14,14,14,14]
-  wisdom       = [10,10,10,10,10,10]
+  wisdom       = [12,12,12,12,12,12]
   charisma     = [13,14,14,14,14,14]
 
   [extra.feats]
