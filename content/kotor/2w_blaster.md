@@ -55,4 +55,4 @@ status      = "TODO"
 
 <div class="block">At character creation, 24 skills points are available, which is a lot. Invest in <em>Demolitions</em>, <em>Stealth</em>, <em>Awareness</em>, <em>Persuade</em>, and a single point in <em>Security</em>. Notice that 7 points remain, they will be usefull for the <em>repair</em> skill when we become a Jedi Consular. </div>
 
-Taris sewers: need security 2 (+2 INT, +1 Interface) to get zaalbar bowcaster
+Taris sewers: need security 5 (2 +2 INT, +1 Interface) to get zaalbar bowcaster
