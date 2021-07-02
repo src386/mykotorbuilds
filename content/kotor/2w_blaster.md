@@ -4,7 +4,7 @@ description = ""
 
 [extra]
 class       = ["Scoundrel (7)","Consular (13)"]
-picture     = ""
+picture     = "/images/2w_blaster.jpg"
 status      = "TODO"
 
   [extra.attributes]
@@ -32,12 +32,12 @@ status      = "TODO"
 
   [extra.skills]
   "Computer Use"  = [0,0,0,0,0,0]
-  "Demolitions"   = [4,"?","?","?","?","?"] # Need 10 (minor), 15 (average), 20 (major) - INT
-  "Stealth"       = [4,0,0,0,0,0]
-  "Awareness"     = [4,"?","?","?","?","?"] # Need 0 (minor), 10 (average), 20 (major) - WIS
-  "Persuade"      = [4,"?","?","?","?","?"]
-  "Repair"        = [0,"?","?","?","?","?"]
-  "Security"      = [1,"?","?","?","?","?"]
+  "Demolitions"   = [4,7,"?","?","?","?"] # Need 10 (minor), 15 (average), 20 (major) - INT
+  "Stealth"       = [4,7,"?","?","?","?"]
+  "Awareness"     = [4,7,"?","?","?","?"] # Need 0 (minor), 10 (average), 20 (major) - WIS
+  "Persuade"      = [4,7,"?","?","?","?"]
+  "Repair"        = [0,0,"?","?","?","?"]
+  "Security"      = [1,2,"?","?","?","?"]
   "Treat Injury"  = [0,0,0,0,0,0]
 
   [extra.equipement]
@@ -54,3 +54,5 @@ status      = "TODO"
 <h3 class="title is-4">Skills progression</h3>
 
 <div class="block">At character creation, 24 skills points are available, which is a lot. Invest in <em>Demolitions</em>, <em>Stealth</em>, <em>Awareness</em>, <em>Persuade</em>, and a single point in <em>Security</em>. Notice that 7 points remain, they will be usefull for the <em>repair</em> skill when we become a Jedi Consular. </div>
+
+Taris sewers: need security 2 (+2 INT, +1 Interface) to get zaalbar bowcaster
