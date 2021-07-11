@@ -98,6 +98,10 @@ levels      = 20
   "KotOR_Force_power_Knight_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Force_Valor"
 ]
+"Master Valor" = [
+  "KotOR_Force_power_Master_Valor.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Force_Valor"
+]
 "Burst of Speed" = [
   "KotOR_Force_power_Burst_of_Speed.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Burst_of_Speed"
@@ -106,8 +110,16 @@ levels      = 20
   "KotOR_Force_power_Knight_Speed.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Burst_of_Speed"
 ]
+"Master Speed" = [
+  "KotOR_Force_power_Master_Speed.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Burst_of_Speed"
+]
 "Energy Resistance" = [
   "KotOR_Force_power_Energy_Resistance.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Energy_Resistance"
+]
+"Improved Energy Resistance" = [
+  "KotOR_Force_power_Improved_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Energy_Resistance"
 ]
 
