@@ -41,7 +41,7 @@ status      = "In progress"
 
   [extra.skills]
   # Levels        =  1, 4, 8, 12, 16, 20
-  "Computer Use"  = [4, 6, 8, 8,  13, 8]
+  "Computer Use"  = [4, 6, 8, 8,  8,  8]
   "Demolitions"   = [4, 6, 10,10, "?","?"]
   "Stealth"       = [0, 0, 0, 0,  0,  0]
   "Awareness"     = [4, 7, 10,13, 16,"?"]
