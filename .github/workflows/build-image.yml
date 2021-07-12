@@ -7,8 +7,11 @@ on:
     branches:
       - 'master'
     paths-ignore:
-      - '**.md'
+      - README.md
+      - CHANGELOG.md
       - LICENSE
+      - .gitignore
+      - .gitattributes
 
 jobs:
   docker:
