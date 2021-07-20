@@ -1,0 +1,124 @@
++++
+title         = "KOTORII"
+page_template = "build.html"
+
+[extra]
+levels      = 30
+
+[extra.map.feats]
+"Class Skill: Demolitions" = [
+  "KotORII_Feat_Class_Skill_Demolitions.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill"
+]
+"Class Skill: Repair" = [
+  "KotORII_Feat_Class_Skill_Repair.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill"
+]
+"Improved Rapid Shot" = [
+  "KotORII_Feat_Improved_Rapid_Shot.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Rapid_Shot"
+]
+"Improved Toughness" = [
+  "KotORII_Feat_Improved_Toughness.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Toughness"
+]
+"Improved Two-Weapon Fighting" = [
+  "KotORII_Feat_Improved_Two-Weapon_Fighting.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Two-Weapon_Fighting"
+]
+"Master Rapid Shot" = [
+  "KotORII_Feat_Master_Two-Weapon_Fighting.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Rapid_Shot"
+]
+"Master Toughness" = [
+  "KotORII_Feat_Master_Toughness.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Toughness"
+]
+"Master Two-Weapon Fighting" = [
+  "KotORII_Feat_Improved_Two-Weapon_Fighting.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Two-Weapon_Fighting"
+]
+"Precise Shot I" = [
+  "KotORII_Feat_Precise_Shot_I.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Precise_Shot"
+]
+"Precise Shot II" = [
+  "KotORII_Feat_Precise_Shot_II.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Precise_Shot"
+]
+"Precise Shot III" = [
+  "KotORII_Feat_Precise_Shot_III.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Precise_Shot"
+]
+"Precise Shot IV" = [
+  "KotORII_Feat_Precise_Shot_IV.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Precise_Shot"
+]
+"Precise Shot V" = [
+  "KotORII_Feat_Precise_Shot_V.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Precise_Shot"
+]
+"Rapid Shot" = [
+  "KotORII_Feat_Rapid_Shot.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Rapid_Shot"
+]
+"Toughness" = [
+  "KotORII_Feat_Toughness.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Toughness"
+]
+"Two-Weapon Fighting" = [
+  "KotORII_Feat_Two-Weapon_Fighting.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Two-Weapon_Fighting"
+]
+"Weapon Focus: Blaster Pistol" = [
+  "KotORII_Feat_Weapon_Focus_Blaster_Pistol.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Weapon_Focus"
+]
+"Weapon Specialization: Blaster Pistol" = [
+  "KotORII_Feat_Weapon_Specialization_Blaster_Pistol.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Weapon_Specialization"
+]
+
+[extra.map.skills]
+"Computer Use" = [
+  "KotORII_Skill_Computer_Use.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Skills#Computer_Use"
+]
+"Demolitions" = [
+  "KotORII_Skill_Demolitions.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Skills#Demolitions"
+]
+"Stealth" = [
+  "KotORII_Skill_Stealth.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Skills#Stealth"
+]
+"Awareness" = [
+  "KotORII_Skill_Awareness.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Skills#Awareness"
+]
+"Persuade" = [
+  "KotORII_Skill_Persuade.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Skills#Persuade"
+]
+"Repair" = [
+  "KotORII_Skill_Repair.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Skills#Repair"
+]
+"Security" = [
+  "KotORII_Skill_Security.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Skills#Security"
+]
+"Treat Injury" = [
+  "KotORII_Skill_Treat_Injury.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Skills#Treat_Injury"
+]
+
+[extra.map.powers]
+"Energy Resistance" = [
+  "KotORII_Power_Energy_Resistance.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
+]
+
+[extra.map.equipement]
+
++++
