@@ -114,6 +114,18 @@ levels      = 30
 ]
 
 [extra.map.powers]
+"Burst of Speed" = [
+  "KotORII_Power_Burst_of_Speed.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"
+]
+"Force Push" = [
+  "KotORII_Power_Force_Push.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Push"
+]
+"Force Valor" = [
+  "KotORII_Power_Force_Valor.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
+]
 "Energy Resistance" = [
   "KotORII_Power_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
