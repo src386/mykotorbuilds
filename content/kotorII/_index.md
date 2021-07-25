@@ -35,7 +35,7 @@ levels      = 30
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Toughness"
 ]
 "Master Two-Weapon Fighting" = [
-  "KotORII_Feat_Improved_Two-Weapon_Fighting.png",
+  "KotORII_Feat_Master_Two-Weapon_Fighting.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Two-Weapon_Fighting"
 ]
 "Precise Shot I" = [
@@ -114,9 +114,21 @@ levels      = 30
 ]
 
 [extra.map.powers]
+"Battle Meditation" = [
+  "KotORII_Power_Battle_Meditation.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Battle_Meditation"
+]
 "Burst of Speed" = [
   "KotORII_Power_Burst_of_Speed.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"
+]
+"Energy Resistance" = [
+  "KotORII_Power_Energy_Resistance.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
+]
+"Force Deflection" = [
+  "KotORII_Power_Force_Deflection.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Deflection"
 ]
 "Force Push" = [
   "KotORII_Power_Force_Push.png",
@@ -126,9 +138,17 @@ levels      = 30
   "KotORII_Power_Force_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
 ]
-"Energy Resistance" = [
-  "KotORII_Power_Energy_Resistance.png",
-  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
+"Heal" = [
+  "KotORII_Power_Heal.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Heal"
+]
+"Knight Speed" = [
+  "KotORII_Power_Knight_Speed.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"
+]
+"Knight Valor" = [
+  "KotORII_Power_Knight_Valor.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
 ]
 
 [extra.map.equipement]
