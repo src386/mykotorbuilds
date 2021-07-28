@@ -126,6 +126,10 @@ levels      = 30
   "KotORII_Power_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
 ]
+"Force Barrier" = [
+  "KotORII_Power_Force_Barrier.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Barrier"
+]
 "Force Deflection" = [
   "KotORII_Power_Force_Deflection.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Deflection"
@@ -133,6 +137,10 @@ levels      = 30
 "Force Push" = [
   "KotORII_Power_Force_Push.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Push"
+]
+"Force Redirection" = [
+  "KotORII_Power_Force_Redirection.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Deflection"
 ]
 "Force Valor" = [
   "KotORII_Power_Force_Valor.png",
@@ -142,12 +150,24 @@ levels      = 30
   "KotORII_Power_Heal.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Heal"
 ]
+"Improved Force Barrier" = [
+  "KotORII_Power_Improved_Force_Barrier.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Barrier"
+]
+"Improved Heal" = [
+  "KotORII_Power_Improved_Heal.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Heal"
+]
 "Knight Speed" = [
   "KotORII_Power_Knight_Speed.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"
 ]
 "Knight Valor" = [
   "KotORII_Power_Knight_Valor.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
+]
+"Master Valor" = [
+  "KotORII_Power_Master_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
 ]
 
