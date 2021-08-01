@@ -134,6 +134,10 @@ levels      = 20
   "KotOR_Force_power_Improved_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Energy_Resistance"
 ]
+"Stun Droid" = [
+  "KotOR_Force_power_Stun_Droid.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Stun_Droid"
+]
 
 [extra.map.equipement]
 "Advanced Stabilizer Gloves" = [
