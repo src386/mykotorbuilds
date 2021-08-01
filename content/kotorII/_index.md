@@ -166,11 +166,35 @@ levels      = 30
   "KotORII_Power_Knight_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
 ]
+"Master Force Barrier" = [
+  "KotORII_Power_Master_Force_Barrier.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Barrier"
+]
 "Master Valor" = [
   "KotORII_Power_Master_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
 ]
 
 [extra.map.equipement]
+"Cardio Package" = [
+  "KotORII_Item_Pheromone_Package.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Implants#Cardio_Package"
+]
+"Infiltrator Gloves" = [
+  "KotORII_Item_Infiltrator_Gloves.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Hands#Infiltrator_Gloves"
+]
+"Mandalorian Ripper" = [
+  "KotORII_Item_Mandalorian_Ripper.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Blaster_pistols#Mandalorian_Ripper"
+]
+"Name's Armband" = [
+  "KotORII_Item_Name's_Armband.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Arms#Name.27s_Armband"
+]
+"Sith Battle Suit" = [
+  "KotORII_Item_Sith_Battle_Suit.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Medium_armor#Sith_Battle_Suit"
+]
 
 +++
