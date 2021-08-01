@@ -38,13 +38,14 @@ status      = "In progress"
   7  = ["Master Speed"]
   8  = ["Master Valor"]
   9  = ["Improved Energy Resistance"]
+  10 = ["Stun Droid"]
 
   [extra.skills]
   # Levels        =  1, 4, 8, 12, 16, 20
   "Computer Use"  = [4, 6, 8, 8,  8,  8]
-  "Demolitions"   = [4, 6, 10,10, "?","?"]
+  "Demolitions"   = [4, 6, 10,10, "?","16"]
   "Stealth"       = [0, 0, 0, 0,  0,  0]
-  "Awareness"     = [4, 7, 10,13, 16,"?"]
+  "Awareness"     = [4, 7, 10,13, 16,"19"]
   "Persuade"      = [2, 3, 5, 14, 16,"?"]
   "Repair"        = [4, 7, 10,10, 14, 14]
   "Security"      = [0, 0, 0, 0,  0, 0]
