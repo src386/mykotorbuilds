@@ -98,6 +98,14 @@ levels      = 20
   "KotOR_Force_power_Cure.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Cure"
 ]
+"Destroy Droid" = [
+  "KotOR_Force_power_Destroy_Droid.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Stun_Droid"
+]
+"Disable Droid" = [
+  "KotOR_Force_power_Disable_Droid.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Stun_Droid"
+]
 "Heal" = [
   "KotOR_Force_power_Heal.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Cure"
