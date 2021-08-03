@@ -5,6 +5,11 @@ page_template = "build.html"
 [extra]
 levels      = 30
 
+[extra.overrides]
+earlygame = "Early game (Peragus II - Telos)"
+midgame   = "Mid game (Atris - ?)"
+lategame  = "Late game (?)"
+
 [extra.map.feats]
 "Class Skill: Demolitions" = [
   "KotORII_Feat_Class_Skill_Demolitions.png",
@@ -180,6 +185,10 @@ levels      = 30
   "KotORII_Item_Pheromone_Package.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Implants#Cardio_Package"
 ]
+"Eriadu Stealth Unit" = [
+  "KotORII_Item_Stealth_Field_Generator.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Belts#Eriadu_Stealth_Unit"
+]
 "Infiltrator Gloves" = [
   "KotORII_Item_Infiltrator_Gloves.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Hands#Infiltrator_Gloves"
@@ -195,6 +204,10 @@ levels      = 30
 "Sith Battle Suit" = [
   "KotORII_Item_Sith_Battle_Suit.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Medium_armor#Sith_Battle_Suit"
+]
+"Watchman Blaster" = [
+  "KotORII_Item_Watchman_Blaster.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Blaster_pistols#Watchman_Blaster"
 ]
 
 +++
