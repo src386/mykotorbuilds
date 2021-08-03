@@ -39,6 +39,8 @@ status      = "In progress"
   8  = ["Master Valor"]
   9  = ["Improved Energy Resistance"]
   10 = ["Stun Droid"]
+  11 = ["Disable Droid"]
+  12 = ["Destroy Droid"]
 
   [extra.skills]
   # Levels        =  1, 4, 8, 12, 16, 20
