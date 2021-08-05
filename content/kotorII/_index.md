@@ -155,6 +155,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Heal.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Heal"
 ]
+"Improved Energy Resistance" = [
+  "KotORII_Power_Improved_Energy_Resistance.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
+]
 "Improved Force Barrier" = [
   "KotORII_Power_Improved_Force_Barrier.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Barrier"
