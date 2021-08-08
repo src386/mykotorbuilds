@@ -26,6 +26,8 @@ status      = "TODO"
   11 = "Precise Shot I"
   13 = "Precise Shot II"
   14 = "Precise Shot III"
+  17 = "Precise Shot IV"
+  19 = "Improved Rapid Shot"
 
   [extra.powers]
   2  = [ "Energy Resistance" ]
@@ -43,6 +45,9 @@ status      = "TODO"
   14 = [ "Improved Force Barrier" ]
   15 = [ "Master Valor" ]
   16 = [ "Master Force Barrier" ]
+  17 = [ "Improved Energy Resistance" ]
+  18 = [ "Master Energy Resistance" ]
+  19 = [ "Master Heal" ]
 
   [extra.skills]
   # Levels        =  1, 4, 8, 12, 16, 20
@@ -59,9 +64,9 @@ status      = "TODO"
   implant   = ["Cardio Package","",""]
   head      = ["","",""]
   hand      = ["","Infiltrator Gloves",""]
-  arm1      = ["Name's Armband","",""]
+  arm1      = ["Name's Armband","Name's Armband",""]
   arm2      = ["","",""]
-  torso     = ["Sith Battle Suit","",""]
+  torso     = ["Sith Battle Suit","Sith Battle Suit",""]
   belt      = ["","Eriadu Stealth Unit",""]
   weapon1   = ["","Mandalorian Ripper",""]
   weapon2   = ["","Watchman Blaster","-"]
