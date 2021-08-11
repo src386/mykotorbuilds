@@ -131,6 +131,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
 ]
+"Force Aura" = [
+  "KotORII_Power_Force_Aura.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Aura"
+]
 "Force Barrier" = [
   "KotORII_Power_Force_Barrier.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Barrier"
@@ -155,6 +159,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Heal.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Heal"
 ]
+"Improved Battle Meditation" = [
+  "KotORII_Power_Improved_Battle_Meditation.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Battle_Meditation"
+]
 "Improved Energy Resistance" = [
   "KotORII_Power_Improved_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
@@ -175,6 +183,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Knight_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
 ]
+"Master Battle Meditation" = [
+  "KotORII_Power_Master_Battle_Meditation.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Battle_Meditation"
+]
 "Master Energy Resistance" = [
   "KotORII_Power_Master_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
@@ -186,6 +198,10 @@ lategame  = "Late game (?)"
 "Master Heal" = [
   "KotORII_Power_Master_Heal.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Heal"
+]
+"Master Speed" = [
+  "KotORII_Power_Master_Speed.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"
 ]
 "Master Valor" = [
   "KotORII_Power_Master_Valor.png",
