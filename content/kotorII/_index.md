@@ -19,6 +19,10 @@ lategame  = "Late game (?)"
   "KotORII_Feat_Class_Skill_Repair.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill"
 ]
+"Finesse: Melee Weapons" = [
+  "KotORII_Feat_Finesse_Melee_Weapons.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Finesse"
+]
 "Improved Rapid Shot" = [
   "KotORII_Feat_Improved_Rapid_Shot.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Rapid_Shot"
@@ -131,6 +135,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
 ]
+"Force Armor" = [
+  "KotORII_Power_Force_Armor.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Aura"
+]
 "Force Aura" = [
   "KotORII_Power_Force_Aura.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Aura"
@@ -150,6 +158,10 @@ lategame  = "Late game (?)"
 "Force Redirection" = [
   "KotORII_Power_Force_Redirection.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Deflection"
+]
+"Force Shield" = [
+  "KotORII_Power_Force_Shield.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Aura"
 ]
 "Force Valor" = [
   "KotORII_Power_Force_Valor.png",
