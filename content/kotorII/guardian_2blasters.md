@@ -3,18 +3,18 @@ title       = "Guardian - Dual blasters (WIP)"
 description = "Jedi Guardian + Dual blasters build"
 
 [extra]
-class       = ["Jedi Guardian","Jedi Guardian"]
+class       = ["Jedi Guardian (22)","Jedi Watchman"]
 picture     = ""
 status      = "TODO"
 
   [extra.attributes]
   # Levels     =  1, 4, 8, 12, 16, 20, 24, 28, 30.
-  strength     = [8, 8, 8, 8,  8]
-  dexterity    = [16,16,16,16, 16]
-  constitution = [14,15,16,17, 18]
-  intelligence = [14,14,14,14, 14]
-  wisdom       = [12,12,12,12, 12]
-  charisma     = [12,12,12,12, 12]
+  strength     = [8, 8, 8, 8,  8,  8,  8]
+  dexterity    = [16,16,16,16, 16, 17, 18]
+  constitution = [14,15,16,17, 18, 18, 18]
+  intelligence = [14,14,14,14, 14, 14, 14]
+  wisdom       = [12,12,12,12, 12, 12, 12]
+  charisma     = [12,12,12,12, 12, 12, 12]
 
   [extra.feats]
   1  = "Weapon Focus: Blaster Pistol"
@@ -28,6 +28,9 @@ status      = "TODO"
   14 = "Precise Shot III"
   17 = "Precise Shot IV"
   19 = "Improved Rapid Shot"
+  20 = "Precise Shot V"
+  23 = "Class Skill: Repair"
+  25 = "Finesse: Melee Weapons"
 
   [extra.powers]
   2  = [ "Energy Resistance" ]
@@ -48,17 +51,24 @@ status      = "TODO"
   17 = [ "Improved Energy Resistance" ]
   18 = [ "Master Energy Resistance" ]
   19 = [ "Master Heal" ]
+  20 = [ "Master Speed" ]
+  21 = [ "Improved Battle Meditation" ]
+  22 = [ "Master Battle Meditation" ]
+  23 = [ "Force Aura" ]
+  24 = [ "Force Shield" ]
+  25 = [ "Force Armor" ]
+  26 = [ "Force Persuade" ]
 
   [extra.skills]
-  # Levels        =  1, 4, 8, 12, 16, 20
-  "Computer Use"  = [0, 0, 0, 0,  0]
-  "Demolitions"   = [3, 6, 10,14, 18]
-  "Stealth"       = [0, 0, 0, 0,  0]
-  "Awareness"     = [3, 6, 10,14, 18]
-  "Persuade"      = [4, 6, 10,14, 18]
-  "Repair"        = [0, 0, 0, 0,  0]
-  "Security"      = [1, 1, 0, 0,  0]
-  "Treat Injury"  = [0, 0, 0, 0,  0]
+  # Levels        =  1, 4, 8, 12, 16, 20, 24, 28, 30
+  "Computer Use"  = [0, 0, 0, 0,  0,  0,  0]
+  "Demolitions"   = [3, 6, 10,14, 18, 22, 24]
+  "Stealth"       = [0, 0, 0, 0,  0,  0,  0]
+  "Awareness"     = [3, 6, 10,14, 18, 22, 24]
+  "Persuade"      = [4, 6, 10,14, 18, 22, 23]
+  "Repair"        = [0, 0, 0, 0,  0,  0,  13]
+  "Security"      = [1, 1, 1, 1,  1,  1,  1]
+  "Treat Injury"  = [0, 0, 0, 0,  0,  0,  0]
 
   [extra.equipement]
   implant   = ["Cardio Package","",""]
