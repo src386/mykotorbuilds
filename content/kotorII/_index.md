@@ -244,6 +244,10 @@ lategame  = "Late game (?)"
   "KotORII_Item_Infiltrator_Gloves.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Hands#Infiltrator_Gloves"
 ]
+"Mandalorian Disintegrator" = [
+  "KotORII_Item_Mandalorian_Disintegrator.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Blaster_pistols#Mandalorian_Disintegrator"
+]
 "Mandalorian Ripper" = [
   "KotORII_Item_Mandalorian_Ripper.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Blaster_pistols#Mandalorian_Ripper"
@@ -251,6 +255,10 @@ lategame  = "Late game (?)"
 "Name's Armband" = [
   "KotORII_Item_Name's_Armband.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Arms#Name.27s_Armband"
+]
+"Norris Robe" = [
+  "KotORII_Item_Norris_Robe.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Robes#Norris_Robe"
 ]
 "Sith Battle Suit" = [
   "KotORII_Item_Sith_Battle_Suit.png",
