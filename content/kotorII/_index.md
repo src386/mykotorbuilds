@@ -227,7 +227,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Master_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
 ]
-
+"Slow" = [
+  "KotORII_Power_Slow.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Slow"
+]
 [extra.map.equipement]
 "Cardio Package" = [
   "KotORII_Item_Pheromone_Package.png",
