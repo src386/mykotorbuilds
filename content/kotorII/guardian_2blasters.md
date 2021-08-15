@@ -79,10 +79,10 @@ status      = "TODO"
   hand      = ["","Infiltrator Gloves",""]
   arm1      = ["Name's Armband","Name's Armband",""]
   arm2      = ["","",""]
-  torso     = ["Sith Battle Suit","Sith Battle Suit",""]
+  torso     = ["Sith Battle Suit","Norris Robe",""]
   belt      = ["","Eriadu Stealth Unit",""]
   weapon1   = ["","Mandalorian Ripper","Mandalorian Disintegrator"]
-  weapon2   = ["","Watchman Blaster","Mandalorian Disintegrator"]
+  weapon2   = ["","Mandalorian Ripper","Mandalorian Disintegrator"]
 
 +++
 
@@ -116,3 +116,8 @@ status      = "TODO"
 <h3 class="title is-4">Equipement</h3>
 <h3 class="title is-4">Gameplay</h3>
 
+<h3 class="title is-4">What I would have change</h3>
+<ul>
+  <li>Level 1: Class Skill: Repair instead of Weapon Focus: Blaster Pistol.</li>
+  <li>Level 7: Improved Rapid Shot instead of Weapon Specialization: Blaster Pistol.</li>
+</ul>
