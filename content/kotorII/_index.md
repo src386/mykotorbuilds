@@ -36,7 +36,7 @@ lategame  = "Late game (?)"
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Two-Weapon_Fighting"
 ]
 "Master Rapid Shot" = [
-  "KotORII_Feat_Master_Two-Weapon_Fighting.png",
+  "KotORII_Feat_Master_Rapid_Shot.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Rapid_Shot"
 ]
 "Master Toughness" = [
