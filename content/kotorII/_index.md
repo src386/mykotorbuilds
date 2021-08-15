@@ -123,6 +123,10 @@ lategame  = "Late game (?)"
 ]
 
 [extra.map.powers]
+"Affect Mind" = [
+  "KotORII_Power_Affect_Mind.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Mind_Trick"
+]
 "Battle Meditation" = [
   "KotORII_Power_Battle_Meditation.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Battle_Meditation"
@@ -130,6 +134,10 @@ lategame  = "Late game (?)"
 "Burst of Speed" = [
   "KotORII_Power_Burst_of_Speed.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"
+]
+"Dominate Mind" = [
+  "KotORII_Power_Dominate_Mind.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Mind_Trick"
 ]
 "Energy Resistance" = [
   "KotORII_Power_Energy_Resistance.png",
