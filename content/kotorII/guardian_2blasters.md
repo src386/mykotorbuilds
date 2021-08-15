@@ -9,12 +9,12 @@ status      = "TODO"
 
   [extra.attributes]
   # Levels     =  1, 4, 8, 12, 16, 20, 24, 28, 30.
-  strength     = [8, 8, 8, 8,  8,  8,  8]
-  dexterity    = [16,16,16,16, 16, 17, 18]
-  constitution = [14,15,16,17, 18, 18, 18]
-  intelligence = [14,14,14,14, 14, 14, 14]
-  wisdom       = [12,12,12,12, 12, 12, 12]
-  charisma     = [12,12,12,12, 12, 12, 12]
+  strength     = [8, 8, 8, 8,  8,  8,  8,  8]
+  dexterity    = [16,16,16,16, 16, 17, 18, 19]
+  constitution = [14,15,16,17, 18, 18, 18, 18]
+  intelligence = [14,14,14,14, 14, 14, 14, 14]
+  wisdom       = [12,12,12,12, 12, 12, 12, 12]
+  charisma     = [12,12,12,12, 12, 12, 12, 12]
 
   [extra.feats]
   1  = "Weapon Focus: Blaster Pistol"
@@ -31,6 +31,7 @@ status      = "TODO"
   20 = "Precise Shot V"
   23 = "Class Skill: Repair"
   25 = "Finesse: Melee Weapons"
+  28 = "Master Rapid Shot"
 
   [extra.powers]
   2  = [ "Energy Resistance" ]
@@ -57,18 +58,20 @@ status      = "TODO"
   23 = [ "Force Aura" ]
   24 = [ "Force Shield" ]
   25 = [ "Force Armor" ]
-  26 = [ "Force Persuade" ]
+  26 = [ "Affect Mind" ]
+  27 = [ "Dominate Mind" ]
+  28 = [ "Slow" ]
 
   [extra.skills]
   # Levels        =  1, 4, 8, 12, 16, 20, 24, 28, 30
-  "Computer Use"  = [0, 0, 0, 0,  0,  0,  0]
-  "Demolitions"   = [3, 6, 10,14, 18, 22, 24]
-  "Stealth"       = [0, 0, 0, 0,  0,  0,  0]
-  "Awareness"     = [3, 6, 10,14, 18, 22, 24]
-  "Persuade"      = [4, 6, 10,14, 18, 22, 23]
-  "Repair"        = [0, 0, 0, 0,  0,  0,  13]
-  "Security"      = [1, 1, 1, 1,  1,  1,  1]
-  "Treat Injury"  = [0, 0, 0, 0,  0,  0,  0]
+  "Computer Use"  = [0, 0, 0, 0,  0,  0,  0,  15]
+  "Demolitions"   = [3, 6, 10,14, 18, 22, 24, 24]
+  "Stealth"       = [0, 0, 0, 0,  0,  0,  0,  0]
+  "Awareness"     = [3, 6, 10,14, 18, 22, 24, 24]
+  "Persuade"      = [4, 6, 10,14, 18, 22, 23, 23]
+  "Repair"        = [0, 0, 0, 0,  0,  0,  13, 18]
+  "Security"      = [1, 1, 1, 1,  1,  1,  1,  1]
+  "Treat Injury"  = [0, 0, 0, 0,  0,  0,  0,  0]
 
   [extra.equipement]
   implant   = ["Cardio Package","",""]
@@ -78,8 +81,8 @@ status      = "TODO"
   arm2      = ["","",""]
   torso     = ["Sith Battle Suit","Sith Battle Suit",""]
   belt      = ["","Eriadu Stealth Unit",""]
-  weapon1   = ["","Mandalorian Ripper",""]
-  weapon2   = ["","Watchman Blaster","-"]
+  weapon1   = ["","Mandalorian Ripper","Mandalorian Disintegrator"]
+  weapon2   = ["","Watchman Blaster","Mandalorian Disintegrator"]
 
 +++
 
