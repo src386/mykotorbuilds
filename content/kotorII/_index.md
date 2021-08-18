@@ -240,13 +240,25 @@ lategame  = "Late game (?)"
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Slow"
 ]
 [extra.map.equipement]
+"Aratech Echo Belt" = [
+  "KotORII_Item_Stealth_Field_Generator.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Belts#Aratech_Echo_Belt"
+]
 "Cardio Package" = [
   "KotORII_Item_Pheromone_Package.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Implants#Cardio_Package"
 ]
+"Consciousness Helm" = [
+  "KotORII_Item_Shielding_Visor.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Head#Consciousness_Helm"
+]
 "Eriadu Stealth Unit" = [
   "KotORII_Item_Stealth_Field_Generator.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Belts#Eriadu_Stealth_Unit"
+]
+"Improved Automation Gloves" = [
+  "KotORII_Item_Automation_Gloves.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Hands#Improved_Automation_Gloves"
 ]
 "Infiltrator Gloves" = [
   "KotORII_Item_Infiltrator_Gloves.png",
@@ -260,6 +272,10 @@ lategame  = "Late game (?)"
   "KotORII_Item_Mandalorian_Ripper.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Blaster_pistols#Mandalorian_Ripper"
 ]
+"Matukai Adept Robe" = [
+  "KotORII_Item_Matukai_Adept_Robe.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Robes#Matukai_Adept_Robe"
+]
 "Name's Armband" = [
   "KotORII_Item_Name's_Armband.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Arms#Name.27s_Armband"
@@ -267,6 +283,10 @@ lategame  = "Late game (?)"
 "Norris Robe" = [
   "KotORII_Item_Norris_Robe.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Robes#Norris_Robe"
+]
+"Quickness D-Package" = [
+  "KotORII_Item_Strength_D-Package.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Implants#Quickness_D-Package"
 ]
 "Sith Battle Suit" = [
   "KotORII_Item_Sith_Battle_Suit.png",
