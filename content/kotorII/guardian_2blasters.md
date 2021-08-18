@@ -3,9 +3,9 @@ title       = "Guardian - Dual blasters (WIP)"
 description = "Jedi Guardian + Dual blasters build"
 
 [extra]
-class       = ["Jedi Guardian (22)","Jedi Watchman"]
+class       = ["Jedi Guardian (22)","Jedi Watchman (8)"]
 picture     = "/images/2w_guardian_blasters.jpg"
-status      = "TODO"
+status      = "Done"
 
   [extra.attributes]
   # Levels     =  1, 4, 8, 12, 16, 20, 24, 28, 30.
@@ -30,8 +30,9 @@ status      = "TODO"
   19 = "Improved Rapid Shot"
   20 = "Precise Shot V"
   23 = "Class Skill: Repair"
-  25 = "Finesse: Melee Weapons"
+  25 = "Improved Toughness"
   28 = "Master Rapid Shot"
+  29 = "Master Toughness"
 
   [extra.powers]
   2  = [ "Energy Resistance" ]
@@ -61,26 +62,28 @@ status      = "TODO"
   26 = [ "Affect Mind" ]
   27 = [ "Dominate Mind" ]
   28 = [ "Slow" ]
+  29 = [ "Afflication" ]
+  30 = [ "Plague" ]
 
   [extra.skills]
   # Levels        =  1, 4, 8, 12, 16, 20, 24, 28, 30
-  "Computer Use"  = [0, 0, 0, 0,  0,  0,  0,  15]
-  "Demolitions"   = [3, 6, 10,14, 18, 22, 24, 24]
-  "Stealth"       = [0, 0, 0, 0,  0,  0,  0,  0]
-  "Awareness"     = [3, 6, 10,14, 18, 22, 24, 24]
-  "Persuade"      = [4, 6, 10,14, 18, 22, 23, 23]
-  "Repair"        = [0, 0, 0, 0,  0,  0,  13, 18]
-  "Security"      = [1, 1, 1, 1,  1,  1,  1,  1]
-  "Treat Injury"  = [0, 0, 0, 0,  0,  0,  0,  0]
+  "Computer Use"  = [0, 0, 0, 0,  0,  0,  0,  15, 15]
+  "Demolitions"   = [3, 6, 10,14, 18, 22, 24, 24, 24]
+  "Stealth"       = [0, 0, 0, 0,  0,  0,  0,  0,  0]
+  "Awareness"     = [3, 6, 10,14, 18, 22, 24, 24, 0]
+  "Persuade"      = [4, 6, 10,14, 18, 22, 23, 23, 33]
+  "Repair"        = [0, 0, 0, 0,  0,  0,  13, 18, 18]
+  "Security"      = [1, 1, 1, 1,  1,  1,  1,  1,  1]
+  "Treat Injury"  = [0, 0, 0, 0,  0,  0,  0,  0,  0]
 
   [extra.equipement]
-  implant   = ["Cardio Package","",""]
-  head      = ["","",""]
-  hand      = ["","Infiltrator Gloves",""]
-  arm1      = ["Name's Armband","Name's Armband",""]
+  implant   = ["Cardio Package","","Quickness D-Package"]
+  head      = ["","","Consciousness Helm"]
+  hand      = ["","Infiltrator Gloves","Improved Automation Gloves"]
+  arm1      = ["Name's Armband","Name's Armband","Name's Armband"]
   arm2      = ["","",""]
-  torso     = ["Sith Battle Suit","Norris Robe",""]
-  belt      = ["","Eriadu Stealth Unit",""]
+  torso     = ["Sith Battle Suit","Norris Robe","Matukai Adept Robe"]
+  belt      = ["","Eriadu Stealth Unit","Aratech Echo Belt"]
   weapon1   = ["","Mandalorian Ripper","Mandalorian Disintegrator"]
   weapon2   = ["","Mandalorian Ripper","Mandalorian Disintegrator"]
 
