@@ -127,6 +127,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Affect_Mind.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Mind_Trick"
 ]
+"Afflication" = [
+  "KotORII_Power_Affliction.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Slow"
+]
 "Battle Meditation" = [
   "KotORII_Power_Battle_Meditation.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Battle_Meditation"
@@ -226,6 +230,10 @@ lategame  = "Late game (?)"
 "Master Valor" = [
   "KotORII_Power_Master_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
+]
+"Plague" = [
+  "KotORII_Power_Plague.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Slow"
 ]
 "Slow" = [
   "KotORII_Power_Slow.png",
