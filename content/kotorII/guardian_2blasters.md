@@ -4,7 +4,7 @@ description = "Jedi Guardian + Dual blasters build"
 
 [extra]
 class       = ["Jedi Guardian (22)","Jedi Watchman"]
-picture     = ""
+picture     = "/images/2w_guardian_blasters.jpg"
 status      = "TODO"
 
   [extra.attributes]
