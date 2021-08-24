@@ -66,15 +66,15 @@ status      = "Done"
   30 = [ "Plague" ]
 
   [extra.skills]
-  # Levels        =  1, 4, 8, 12, 16, 20, 24, 28, 30
-  "Computer Use"  = [0, 0, 0, 0,  0,  0,  0,  15, 15]
-  "Demolitions"   = [3, 6, 10,14, 18, 22, 24, 24, 24]
-  "Stealth"       = [0, 0, 0, 0,  0,  0,  0,  0,  0]
-  "Awareness"     = [3, 6, 10,14, 18, 22, 24, 24, 0]
-  "Persuade"      = [4, 6, 10,14, 18, 22, 23, 23, 33]
-  "Repair"        = [0, 0, 0, 0,  0,  0,  13, 18, 18]
-  "Security"      = [1, 1, 1, 1,  1,  1,  1,  1,  1]
-  "Treat Injury"  = [0, 0, 0, 0,  0,  0,  0,  0,  0]
+  # Levels        =  1, 4, 8, 12, 16, 20, 24, 28
+  "Computer Use"  = [0, 0, 0, 0,  0,  0,  0,  15]
+  "Demolitions"   = [3, 6, 10,14, 18, 22, 24, 24]
+  "Stealth"       = [0, 0, 0, 0,  0,  0,  0,  0 ]
+  "Awareness"     = [3, 6, 10,14, 18, 22, 24, 24]
+  "Persuade"      = [4, 6, 10,14, 18, 22, 23, 23]
+  "Repair"        = [0, 0, 0, 0,  0,  0,  13, 18]
+  "Security"      = [1, 1, 1, 1,  1,  1,  1,  1 ]
+  "Treat Injury"  = [0, 0, 0, 0,  0,  0,  0,  0 ]
 
   [extra.equipement]
   implant   = ["Cardio Package","","Quickness D-Package"]
