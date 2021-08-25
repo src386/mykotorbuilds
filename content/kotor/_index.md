@@ -154,6 +154,10 @@ levels      = 20
   "KotOR_Force_power_Stun_Droid.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Stun_Droid"
 ]
+"Wound" = [
+  "KotOR_Force_power_Wound.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Wound"
+]
 
 [extra.map.equipement]
 "Advanced Stabilizer Gloves" = [
