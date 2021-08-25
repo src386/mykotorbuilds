@@ -28,17 +28,18 @@ status      = "TODO"
   19 = "Improved Toughness"
 
   [extra.powers]
-  1  = ["Cure"]
+  1  = ["Fear","Horror"]
 
   [extra.skills]
-  "Computer Use"  = [0,0,0,0,0,0]
-  "Demolitions"   = [4,7,"?","?","?","?"] # Need 10 (minor), 15 (average), 20 (major) - INT
-  "Stealth"       = [4,7,"?","?","?","?"]
-  "Awareness"     = [4,7,"?","?","?","?"] # Need 0 (minor), 10 (average), 20 (major) - WIS
-  "Persuade"      = [4,7,"?","?","?","?"]
-  "Repair"        = [0,0,"?","?","?","?"]
-  "Security"      = [1,2,"?","?","?","?"]
-  "Treat Injury"  = [0,0,0,0,0,0]
+  # Levels           1  4 8 12  16  20
+  "Computer Use"  = [0, 0,0,0,0,0]
+  "Demolitions"   = [4, 7,7,"?","?","?"] # Need 10 (minor), 15 (average), 20 (major) - INT
+  "Stealth"       = [4, 7,10,"?","?","?"]
+  "Awareness"     = [4, 7,7,"?","?","?"] # Need 0 (minor), 10 (average), 20 (major) - WIS
+  "Persuade"      = [4, 7,9,"?","?","?"]
+  "Repair"        = [0, 0,0,"?","?","?"]
+  "Security"      = [1, 2,2,"?","?","?"]
+  "Treat Injury"  = [0, 0,0,0,0,0]
 
   [extra.equipement]
   implant   = ["Response Package","Cyber Reaction System","Advanced Alacrity Implant"]
