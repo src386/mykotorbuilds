@@ -110,9 +110,17 @@ levels      = 20
   "KotOR_Force_power_Heal.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Cure"
 ]
+"Fear" = [
+  "KotOR_Force_power_Fear.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Fear"
+]
 "Force Valor" = [
   "KotOR_Force_power_Force_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Force_Valor"
+]
+"Horror" = [
+  "KotOR_Force_power_Horror.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Fear"
 ]
 "Knight Valor" = [
   "KotOR_Force_power_Knight_Valor.png",
