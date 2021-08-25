@@ -28,7 +28,9 @@ status      = "TODO"
   19 = "Improved Toughness"
 
   [extra.powers]
-  1  = ["Fear","Horror"]
+  1 = ["Fear","Horror"]
+  2 = ["Cure"]
+  3 = ["Wound"]
 
   [extra.skills]
   # Levels           1  4 8 12  16  20
