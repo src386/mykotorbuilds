@@ -18,7 +18,7 @@ status      = "Done"
 
   [extra.feats]
   1  = "Weapon Focus: Blaster Pistol"
-  2  = Toughness
+  2  = "Toughness"
   3  = "Two-Weapon Fighting"
   5  = "Improved Two-Weapon Fighting"
   7  = "Weapon Specialization: Blaster Pistol"
