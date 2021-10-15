@@ -8,13 +8,13 @@ picture     = "/images/2w_blaster.jpg"
 status      = "TODO"
 
   [extra.attributes]
-  strength     = [8,8,8,8,8,8]
+  # Levels        1  4  8 12 16 20
+  strength     = [8, 8, 8, 8, 8, 8]
   dexterity    = [16,17,18,18,18,18]
   constitution = [14,14,14,14,14,14]
   intelligence = [14,14,14,14,14,14]
   wisdom       = [12,12,12,13,14,15]
   charisma     = [12,12,12,12,12,12]
-  # L4,8: DEX (17,18)
   # L12,14,18: WIS (13,14,15)
 
   [extra.feats]
@@ -31,17 +31,18 @@ status      = "TODO"
   1 = ["Fear","Horror"]
   2 = ["Cure"]
   3 = ["Wound"]
+  4 = ["Choke"]
 
   [extra.skills]
-  # Levels           1  4 8 12  16  20
-  "Computer Use"  = [0, 0,0,0,0,0]
-  "Demolitions"   = [4, 7,7,"?","?","?"] # Need 10 (minor), 15 (average), 20 (major) - INT
-  "Stealth"       = [4, 7,10,"?","?","?"]
-  "Awareness"     = [4, 7,7,"?","?","?"] # Need 0 (minor), 10 (average), 20 (major) - WIS
-  "Persuade"      = [4, 7,9,"?","?","?"]
-  "Repair"        = [0, 0,0,"?","?","?"]
-  "Security"      = [1, 2,2,"?","?","?"]
-  "Treat Injury"  = [0, 0,0,0,0,0]
+  # Levels           1 4 8 12 16 20
+  "Computer Use"  = [0,0,0, 0, 0, 0]
+  "Demolitions"   = [4,7,7,"?","?","?"] # Need 10 (minor), 15 (average), 20 (major) - INT
+  "Stealth"       = [4,7,10,"?","?","?"]
+  "Awareness"     = [4,7,7,"?","?","?"] # Need 0 (minor), 10 (average), 20 (major) - WIS
+  "Persuade"      = [4,7,9,"?","?","?"]
+  "Repair"        = [0,0,0,"?","?","?"] # Need 11 (+3 Calrissaian Belt Utility, +3 INT)
+  "Security"      = [1,2,2,"?","?","?"]
+  "Treat Injury"  = [0,0,0,0,0,0]
 
   [extra.equipement]
   implant   = ["Response Package","Cyber Reaction System","Advanced Alacrity Implant"]
@@ -52,6 +53,9 @@ status      = "TODO"
   weapon1   = ["Carth's Blaster","Cassus Fett's Heavy Pistol","Cassus Fett's Heavy Pistol"]
   weapon2   = ["Bendak's Blaster","Mandalorian Heavy Pistol","Mandalorian Heavy Pistol"]
 
+  # CNS Strength amplifier
+  # Calrissian Belt utility
+
 +++
 
 <h3 class="title is-4">Skills progression</h3>
@@ -59,3 +63,11 @@ status      = "TODO"
 <div class="block">At character creation, 24 skills points are available, which is a lot. Invest in <em>Demolitions</em>, <em>Stealth</em>, <em>Awareness</em>, <em>Persuade</em>, and a single point in <em>Security</em>. Notice that 7 points remain, they will be usefull for the <em>repair</em> skill when we become a Jedi Consular. </div>
 
 Taris sewers: need security 5 (2 +2 INT, +1 Interface) to get zaalbar bowcaster
+
+Skills notes:
+ - Dantoine: persuade for Juhani
+ - Average frag mine on Korriban caves
+ - Kashyyyk crate needs 8 security
+
+ Equipement notes:
+ - Dont buy mandalorian blasters, make Calo nord appear on Korriban
