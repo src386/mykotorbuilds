@@ -196,6 +196,10 @@ levels      = 20
   "KotOR_Item_Jamoh_Hogra's_Carbine.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Blaster_rifles#Jamoh_Hogra.27s_Carbine"
 ]
+"Motion Detection Goggles" = [
+  "KotOR_Item_Motion_Detection_Goggles.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Head"
+]
 "Qel-Droma Robes" = [
   "KotOR_Item_Jedi_Knight_Robe,_Brown.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Robes#Qel-Droma_Robes"
