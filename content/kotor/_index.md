@@ -94,6 +94,10 @@ levels      = 20
 ]
 
 [extra.map.powers]
+"Choke" = [
+  "KotOR_Force_power_Choke.png",
+  "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Wound"
+]
 "Cure" = [
   "KotOR_Force_power_Cure.png",
   "https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Force_powers#Cure"
