@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% block title %}
+  {{ page.title }}
+{% endblock %}
+
+{% block content %}
+
+{# Load current section variables #}
+
+  {% set current_section = get_section(path=page.ancestors|last) %}
+
+  {% set skills = current_section.extra.skills %}
+
+{# End load section variables #}
+
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ config.base_url }}">Home</a></li>
+    <li><a href="#">{{ current_section.title }}</a></li>
+    <li class="is-active"><a href="#" aria-current="page">{{ page.title }}</a></li>
+  </ul>
+</nav>
+
+<div class="content">
+
+    <h2 class="subtitle">What skill is required and when</h2>
+
+    {%- if page.extra.kotor -%}
+    <h3 class="subtitle">KOTOR</h3>
+
+    <table class="table is-narrow is-bordered">
+      <thead>
+        <tr>
+          <th>Skill / World</th>
+          {%- for world, world_values in page.extra.kotor -%}
+          <th>{{ world_values.displayname }}</th>
+          {%- endfor -%}
+        </tr>
+      </thead>
+        <tbody>
+          {%- for skill_key, skill_values in skills -%}
+          <tr>
+            <td>{{ skill_values.displayname }}</td>
+            {%- for world, world_values in page.extra.kotor -%}
+              {%- for world_skill_name, world_skill_value in world_values -%}
+                {%- if world_skill_name == skill_key -%}
+            <td>{{ world_skill_value }}</td>
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endfor -%}
+          </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
+    {%- endif -%}
+
+</div>
+
+{{ page.content | safe }}
+
+{% endblock content %}
