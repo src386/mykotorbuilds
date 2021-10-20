@@ -1,11 +1,14 @@
 +++
 title       = "Dual blaster scoundrel build"
-description = ""
+description = """
+  Another blaster build. Very weak but deadly.
+  Equipement is limited to light side.
+"""
 
 [extra]
 class       = ["Scoundrel (7)","Consular (13)"]
 picture     = "/images/2w_blaster.jpg"
-status      = "TODO"
+status      = "Ongoing"
 
   [extra.attributes]
   # Levels        1  4  8 12 16 20
@@ -15,7 +18,6 @@ status      = "TODO"
   intelligence = [14,14,14,14,14,14]
   wisdom       = [12,12,12,13,14,15]
   charisma     = [12,12,12,12,12,12]
-  # L12,14,18: WIS (13,14,15)
 
   [extra.feats]
   1  = "Two-Weapon Fighting"
@@ -46,7 +48,7 @@ status      = "TODO"
 
   [extra.equipement]
   implant   = ["Response Package","Cyber Reaction System","Advanced Alacrity Implant"]
-  head      = ["","Circlet of Saresh","Circlet of Saresh"]
+  head      = ["Motion Detection Goggles","Circlet of Saresh","Circlet of Saresh"]
   hand      = ["Brejik's Gloves","Advanced Stabilizer Gloves","Advanced Stabilizer Gloves"]
   torso     = ["Echani Fiber Armor","Qel-Droma Robes","Qel-Droma Robes"]
   belt      = ["","","Baragwin Stealth Unit"]
@@ -61,13 +63,6 @@ status      = "TODO"
 <h3 class="title is-4">Skills progression</h3>
 
 <div class="block">At character creation, 24 skills points are available, which is a lot. Invest in <em>Demolitions</em>, <em>Stealth</em>, <em>Awareness</em>, <em>Persuade</em>, and a single point in <em>Security</em>. Notice that 7 points remain, they will be usefull for the <em>repair</em> skill when we become a Jedi Consular. </div>
-
-Taris sewers: need security 5 (2 +2 INT, +1 Interface) to get zaalbar bowcaster
-
-Skills notes:
- - Dantoine: persuade for Juhani
- - Average frag mine on Korriban caves
- - Kashyyyk crate needs 8 security
 
  Equipement notes:
  - Dont buy mandalorian blasters, make Calo nord appear on Korriban
