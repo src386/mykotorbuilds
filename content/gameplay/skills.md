@@ -4,14 +4,14 @@ title = "Skills"
 
 [extra.kotor.endarspire]
 displayname = "Endar Spire"
-computeruse = ""
-demolitions = ""
+computeruse = 0
+demolitions = 0
 stealth     = ""
-awareness   = ""
+awareness   = 0
 persuade    = 0
-repair      = ""
+repair      = 0
 security    = 1
-treatinjury = ""
+treatinjury = 0
 
 [extra.kotor.taris]
 displayname = "Taris"
@@ -19,21 +19,33 @@ computeruse = ""
 demolitions = 10
 stealth     = ""
 awareness   = ""
-persuade    = 0
+persuade    = ""
 repair      = ""
 security    = 5
-treatinjury = ""
+treatinjury = 0
 
 [extra.kotor.dantooine]
 displayname = "Dantooine"
+computeruse = ""
+demolitions = 10
+stealth     = ""
+awareness   = ""
+persuade    = 11
+repair      = ""
+security    = ""
+treatinjury = 0
+
+[extra.kotor.tatooine]
+displayname = "Tatooine"
 computeruse = ""
 demolitions = ""
 stealth     = ""
 awareness   = ""
 persuade    = ""
-repair      = ""
+repair      = 17
 security    = ""
-treatinjury = ""
+treatinjury = 0
+
 
 [extra.kotor.korriban]
 displayname = "Korriban"
@@ -44,7 +56,7 @@ awareness   = ""
 persuade    = ""
 repair      = ""
 security    = ""
-treatinjury = ""
+treatinjury = 0
 
 [extra.kotor.kashyyyk]
 displayname = "Kashyyyk"
@@ -54,8 +66,8 @@ stealth     = ""
 awareness   = ""
 persuade    = ""
 repair      = ""
-security    = ""
-treatinjury = ""
+security    = 8
+treatinjury = 0
 
 [extra.kotor.manaan]
 displayname = "Manaan"
@@ -66,7 +78,7 @@ awareness   = ""
 persuade    = ""
 repair      = ""
 security    = ""
-treatinjury = ""
+treatinjury = 0
 
 [extra.kotor.leviathan]
 displayname = "Leviathan"
@@ -77,7 +89,7 @@ awareness   = ""
 persuade    = ""
 repair      = ""
 security    = ""
-treatinjury = ""
+treatinjury = 0
 
 [extra.kotor.rakata]
 displayname = "End"
@@ -88,7 +100,7 @@ awareness   = 20
 persuade    = ""
 repair      = ""
 security    = ""
-treatinjury = ""
+treatinjury = 0
 +++
 
 <h4 class="subtitle">Taris</h4>
