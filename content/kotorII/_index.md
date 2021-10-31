@@ -239,6 +239,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Slow.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Slow"
 ]
+"Stun Droid" = [
+  "KotORII_Power_Stun_Droid.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Stun_Droid"
+]
 [extra.map.equipement]
 "Aratech Echo Belt" = [
   "KotORII_Item_Stealth_Field_Generator.png",
