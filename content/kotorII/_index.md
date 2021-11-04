@@ -71,6 +71,10 @@ lategame  = "Late game (?)"
   "KotORII_Feat_Rapid_Shot.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Rapid_Shot"
 ]
+"Regenerate: Force Points" = [
+  "KotORII_Feat_Regenerate_Force_Points.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Regenerate"
+]
 "Toughness" = [
   "KotORII_Feat_Toughness.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Toughness"
