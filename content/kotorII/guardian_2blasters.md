@@ -1,6 +1,11 @@
 +++
-title       = "Guardian - Dual blasters (WIP)"
-description = "Jedi Guardian + Dual blasters build"
+title       = "Dual blasters Guardian"
+description = """
+  Mostly improvised, not optimized at all.
+  Huge dammage output though.
+  Started as a Guardian, then switched (lately) to watchman for skills.
+  Almost every force power is useless for this build.
+"""
 
 [extra]
 class       = ["Jedi Guardian (22)","Jedi Watchman (8)"]
@@ -91,36 +96,29 @@ status      = "Done"
 
 <h2 class="title">Description</h2>
 
+<article class="message is-warning">
+  <div class="message-body">
+    <strong>Note:</strong> Although this build is very powerfull, it is mostly improvised and may need some adjustements.
+    Almost every force power is useless for this build, except the ones that buff your character.
+  </div>
+</article>
+
 <div class="block">
-  While the first KOTOR sometimes feels like it is meant to be played with a lightsaber, KOTOR II
-  offers new feats and upgrades that make blaster rifles and pistol even more lethal.
-  With the right upgrades your dps is **insane**, sometimes making you able to one shot the hardest ennemies
-  (such as trandoshans on Nar Shadda). I love this build.
+  Blasters in KOTOR2 recevied a HUGE boost with many feats that add dammages, and craftable weapon upgrades.
+  They are incredibly powerfull at the end game of the game, allowing you to gun down every single life form
+  in the Traya Academy. You won't use any melee weapon or lightsaber in the game - except in Peragus II
+  (killing shielded droids with low tier blasters takes a long time) - so Strength value is 8.
 </div>
 
 <div class="block">
-  The begining of the game won't be easy. All droïds on Peragus II use shields so it is almost
-  impossible to dammage them with low tier blasters. You should use a vibroblade, even if you have Strength 8,
-  resulting in a penalty of -1 attack and -1 dammage. Fortunately, the Jedi Guardian still have a high attack.
+  Set <strong>Demolition</strong> at least to <strong>2</strong> to be able to recover all mines in Pergaus II (+2 INT modifier, +1 Safety Harness = 5) and <strong>Security</strong> to <strong>1</strong> to open almost every containers or doors in the game. If you want to repair T3-M4, you can invest
+  in the <a href="https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill">Class Skill: Repair</a> feat then
+  become a <a href="https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Prestige_classes#Jedi_Watchman">Jedi Watchman</a> at Level 15
+  to get Computer Use as a Class Skill. You can also pick <a href="https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill">Class Skill: Computer Use</a> then become a <a href="https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Prestige_classes#Jedi_Master">Jedi Master</a>. Or just pick both feats.
 </div>
 
 <div class="block">
-  Now let's talk about feats, skills and powers:
-  <ul>
-    <li><strong>Feats</strong> will focus on Two-Weapon Fighting, Precise Shot, and Weapon Specialization: Blasters.</li>
-    <li>1 <strong>Skill point</strong> in <strong>Security</strong> (resulting in 1 + 2 INT = 3 ) makes you able to open
-    all doors and containers in Peragus II, except one in the Harbinger (the room in front of your private quarters.)</li>
-    <li>Almost every powers are useless for this build, especially if you play with an armor. Good news is: you can rely on Kreia to buff yourself with powers that you can't cast because of the armor (Knight Speed, Knight Valor...).</li>
-    <li>You won't be able to repair HK-47 or T3-M4. Breaking down items won't give you much components, but you can cheat
-    using the infinite Jedi robe glitch thanks to the handmaiden.</li>
-  </ul>
+  If you play without TSLRCM, you won't get many components when your breakdown items at the workbench,
+  because the game will use the Repair skill of the main character, even if you switch to a companion.
+  A workarround to this is to exploit the infinite Jedi robe with the Handmaiden.
 </div>
-
-<h3 class="title is-4">Equipement</h3>
-<h3 class="title is-4">Gameplay</h3>
-
-<h3 class="title is-4">What I would have change</h3>
-<ul>
-  <li>Level 1: Class Skill: Repair instead of Weapon Focus: Blaster Pistol.</li>
-  <li>Level 7: Improved Rapid Shot instead of Weapon Specialization: Blaster Pistol.</li>
-</ul>
