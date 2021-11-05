@@ -10,7 +10,11 @@
 
   {% set current_section = get_section(path=page.ancestors|last) %}
 
+  {% set game = current_section.title %}
+
   {% set max_level = current_section.extra.levels %}
+
+  {% set overrides = current_section.extra.overrides %}
 
   {% set feats_icons = current_section.extra.map.feats %}
 
@@ -160,13 +164,16 @@
     <h2 class="title is-4">Equipement</h2>
     
     {% if page.extra.equipement %}
+      {% if game == "KOTORII" %}
+        <strong>Note:</strong> Unfortunately, loot is randomized in KOTORII. This is what I've found.<br/>
+      {% endif %}
       <table class="table is-narrow" style="border: solid 1px;">
         <thead class="has-background-link-light">
           <tr>
             <th>Body part</th>
-            <th>Early game (Taris)</th>
-            <th>Mid game (first star map)</th>
-            <th>Late game (fifth star map)</th>
+            <th>{{ overrides.earlygame }}</th>
+            <th>{{ overrides.midgame }}</th>
+            <th>{{ overrides.lategame }}</th>
           </tr>
         </thead>
         <tbody>

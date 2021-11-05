@@ -5,6 +5,11 @@ page_template = "build.html"
 [extra]
 levels      = 20
 
+[extra.overrides]
+earlygame = "Early game (Taris)"
+midgame   = "Mid game (first star map)"
+lategame  = "Late game (fifth star map)"
+
 [extra.map.feats]
 "Implant Level 1" = [
   "KotOR_Feat_Implant_Level_1.png",
