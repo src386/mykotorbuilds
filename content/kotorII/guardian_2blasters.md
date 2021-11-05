@@ -122,3 +122,22 @@ status      = "Done"
   because the game will use the Repair skill of the main character, even if you switch to a companion.
   A workarround to this is to exploit the infinite Jedi robe with the Handmaiden.
 </div>
+
+<div class="block">
+  Weapon upgrades - since this build has a high attack, upgrades should focus on damage output:
+  <ul>
+    <li><strong>Targeting</strong></li>
+    <ul>
+      <li>Crippling Scope III (Damage Bonus: 3 Energy)
+      <li>or Targeting Scope IV (Damage Bonus: 3 Energy)</li>
+    </ul>
+    <li><strong>Power packs</strong></li>
+    <ul>
+      <li>Pure Rylith Power Cell (Damage Bonus: 2-20, Energy)</li>
+    </ul>
+    <li><strong>Firing chambers</strong></li>
+    <ul>
+      <li>Mandalorian Chamber III (Damage Bonus: 2-16,+1, Energy. Attack +1, Defense -1)</li>
+    </ul>
+  </ul>
+</div>
