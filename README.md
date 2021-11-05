@@ -2,11 +2,11 @@
 
 *A website dedicated to KOTOR builds powered by Zola + Bulma.*
 
-[![build](https://github.com/src386/mykotorbuilds/actions/workflows/build-image.yml/badge.svg)](https://github.com/src386/mykotorbuilds/actions/workflows/build-image.yml)
+[![build](https://github.com/src386/mykotorbuilds/actions/workflows/build-image.yml/badge.svg?branch=master)](https://github.com/src386/mykotorbuilds/actions/workflows/build-image.yml)
 
 ## Requirements
 
-- `zola` >= `0.12.2`
+- `zola` >= `0.14.1`
 - `git-lfs`
 
 ## Build
