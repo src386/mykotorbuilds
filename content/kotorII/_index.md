@@ -151,6 +151,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
 ]
+"Fear" = [
+  "KotORII_Power_Fear.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Fear"
+]
 "Force Armor" = [
   "KotORII_Power_Force_Armor.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Aura"
@@ -238,6 +242,10 @@ lategame  = "Late game (?)"
 "Plague" = [
   "KotORII_Power_Plague.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Slow"
+]
+"Shock" = [
+  "KotORII_Power_Shock.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Shock"
 ]
 "Slow" = [
   "KotORII_Power_Slow.png",
