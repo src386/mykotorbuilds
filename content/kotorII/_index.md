@@ -11,6 +11,10 @@ midgame   = "Mid game (Atris - ?)"
 lategame  = "Late game (?)"
 
 [extra.map.feats]
+"Class Skill: Computer Use" = [
+  "KotORII_Feat_Class_Skill_Computer_Use.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill"
+]
 "Class Skill: Demolitions" = [
   "KotORII_Feat_Class_Skill_Demolitions.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill"
