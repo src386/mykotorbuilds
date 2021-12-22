@@ -147,6 +147,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Burst_of_Speed.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"
 ]
+"Disable Droid" = [
+  "KotORII_Power_Disable_Droid.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Stun_Droid"
+]
 "Dominate Mind" = [
   "KotORII_Power_Dominate_Mind.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Mind_Trick"
@@ -194,6 +198,10 @@ lategame  = "Late game (?)"
 "Heal" = [
   "KotORII_Power_Heal.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Heal"
+]
+"Horror" = [
+  "KotORII_Power_Horror.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Fear"
 ]
 "Improved Battle Meditation" = [
   "KotORII_Power_Improved_Battle_Meditation.png",
@@ -258,6 +266,10 @@ lategame  = "Late game (?)"
 "Stun Droid" = [
   "KotORII_Power_Stun_Droid.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Stun_Droid"
+]
+"Wound" = [
+  "KotORII_Power_Wound.png",
+  "https://strategywiki.org/wiki/File:KotORII_Power_Wound.png"
 ]
 [extra.map.equipement]
 "Aratech Echo Belt" = [
