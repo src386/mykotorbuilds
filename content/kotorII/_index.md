@@ -147,6 +147,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Burst_of_Speed.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"
 ]
+"Choke" = [
+  "KotORII_Power_Choke.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Wound"
+]
 "Disable Droid" = [
   "KotORII_Power_Disable_Droid.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Stun_Droid"
@@ -178,6 +182,10 @@ lategame  = "Late game (?)"
 "Force Deflection" = [
   "KotORII_Power_Force_Deflection.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Deflection"
+]
+"Force Lightning" = [
+  "KotORII_Power_Force_Lightning.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Shock"
 ]
 "Force Push" = [
   "KotORII_Power_Force_Push.png",
