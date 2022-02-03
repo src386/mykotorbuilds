@@ -9,12 +9,12 @@ status      = "TODO"
 
   [extra.attributes]
   # Levels     =  1, 4, 8, 12, 16, 20, 24, 28, 30.
-  strength     = [10,10]
-  dexterity    = [12,12]
-  constitution = [14,14]
-  intelligence = [14,14]
-  wisdom       = [14,15]
-  charisma     = [14,14]
+  strength     = [10,10,10]
+  dexterity    = [12,12,12]
+  constitution = [14,14,14]
+  intelligence = [14,14,14]
+  wisdom       = [14,15,16]
+  charisma     = [14,14,14]
 
   [extra.feats]
   1  = "Class Skill: Computer Use"
@@ -29,18 +29,21 @@ status      = "TODO"
   3  = ["Shock","Fear"] # 2 powers
   4  = ["Wound"]
   5  = ["Slow"]
-  6  = ["Horror","Disable Droid"] # 2 powers
+  6  = ["Horror","Heal"] # 2 powers
+  7  = ["Disable Droid"]
+  8  = ["Battle Meditation"]
+  9  = ["Force Lightning", "Choke"] # 2 powers
 
   [extra.skills]
   # Levels        =  1, 4, 8, 12, 16, 20, 24, 28
-  "Computer Use"  = [0, 6]
-  "Demolitions"   = [2, 2]
-  "Stealth"       = [0, 0]
-  "Awareness"     = [2, 4]
-  "Persuade"      = [4, 6]
-  "Repair"        = [4, 6]
-  "Security"      = [1, 1]
-  "Treat Injury"  = [0, 0]
+  "Computer Use"  = [0, 6, 10]
+  "Demolitions"   = [2, 2, 2]
+  "Stealth"       = [0, 0, 0]
+  "Awareness"     = [2, 4, 8]
+  "Persuade"      = [4, 6, 10]
+  "Repair"        = [4, 6, 10]
+  "Security"      = [1, 1, 1]
+  "Treat Injury"  = [0, 0, 0]
 
   # Level         1, 2, 3, 4
   # Computer Use     +4
