@@ -20,7 +20,7 @@ status      = "TODO"
   1  = "Class Skill: Computer Use"
   3  = "Toughness"
   6  = "Regenerate: Force Points"
-  9  = ""
+  9  = "Improved Toughness"
   12 = ""
   15 = ""
 
