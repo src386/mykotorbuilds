@@ -94,7 +94,7 @@ status      = "Done"
 
 +++
 
-<h2 class="title">Description</h2>
+<h2 class="title">About this build</h2>
 
 <article class="message is-warning">
   <div class="message-body">

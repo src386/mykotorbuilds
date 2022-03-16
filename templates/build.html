@@ -159,6 +159,8 @@
     </tbody>
   </table>
 
+  {{ page.content | safe }}
+
   {% if page.extra.equipement %}
 
     <h2 class="title is-4">Equipement</h2>
@@ -344,8 +346,6 @@
     </div>
 
   </div>
-
-  {{ page.content | safe }}
 
 </div>
 
