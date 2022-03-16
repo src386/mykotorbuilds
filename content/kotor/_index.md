@@ -1,6 +1,7 @@
 +++
 title         = "KOTOR"
 page_template = "build.html"
+weight        = 10
 
 [extra]
 levels      = 20

@@ -1,6 +1,7 @@
 +++
 title         = "KOTORII"
 page_template = "build.html"
+weight        = 20
 
 [extra]
 levels      = 30
