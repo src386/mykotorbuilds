@@ -289,6 +289,10 @@ lategame  = "Late game (?)"
   "KotORII_Item_Stealth_Field_Generator.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Belts#Aratech_Echo_Belt"
 ]
+"Baran Do Novice Robe" = [
+  "KotORII_Item_Baran_Do_Novice_Robe.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Robes#Baran_Do_Novice_Robe"
+]
 "Cardio Package" = [
   "KotORII_Item_Pheromone_Package.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Implants#Cardio_Package"
@@ -309,6 +313,10 @@ lategame  = "Late game (?)"
   "KotORII_Item_Infiltrator_Gloves.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Hands#Infiltrator_Gloves"
 ]
+"Jal Shey Perception Gloves" = [
+  "KotORII_Item_Jal_Shey_Perception_Gloves.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Hands#Jal_Shey_Perception_Gloves"
+]
 "Mandalorian Disintegrator" = [
   "KotORII_Item_Mandalorian_Disintegrator.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Blaster_pistols#Mandalorian_Disintegrator"
@@ -328,6 +336,10 @@ lategame  = "Late game (?)"
 "Norris Robe" = [
   "KotORII_Item_Norris_Robe.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Robes#Norris_Robe"
+]
+"Repeating Blaster Rifle" = [
+  "KotORII_Item_Repeating_Blaster_Rifle.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Blaster_rifles#Repeating_Blaster_Rifle"
 ]
 "Quickness D-Package" = [
   "KotORII_Item_Strength_D-Package.png",

@@ -53,12 +53,12 @@ status      = "TODO"
   [extra.equipement]
   implant   = ["","",""]
   head      = ["","",""]
-  hand      = ["","",""]
-  arm1      = ["","",""]
+  hand      = ["Jal Shey Perception Gloves","",""]
+  arm1      = ["Name's Armband","",""]
   arm2      = ["","",""]
-  torso     = ["","",""]
+  torso     = ["Baran Do Novice Robe","",""]
   belt      = ["","",""]
-  weapon1   = ["","",""]
+  weapon1   = ["Repeating Blaster Rifle","",""]
   weapon2   = ["","",""]
 
 +++
@@ -66,5 +66,5 @@ status      = "TODO"
 <h2 class="title">Description</h2>
 
 <div class="block">
-  |
+  I'm currently working on this build.
 </div>
