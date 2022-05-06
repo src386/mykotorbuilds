@@ -1,19 +1,19 @@
-FROM debian:buster-slim AS builder
+FROM debian:bullseye-slim AS builder
 
 # Get zola binary from official Docker image
-COPY --from=balthek/zola:0.13.0 /usr/bin/zola /usr/bin/zola
+COPY --from=ghcr.io/getzola/zola:v0.15.1 /bin/zola /bin/zola
 
 # Set Workdir
-WORKDIR /opt
+WORKDIR /code
 
 # Add code
 ADD . .
 
 # Build site
-RUN /usr/bin/zola build
+RUN /bin/zola build
 
 # Runtime image
 FROM nginx:alpine
 
 # Copy public site
-COPY --from=builder /opt/public/ /usr/share/nginx/html/
+COPY --from=builder /code/public/ /usr/share/nginx/html/
