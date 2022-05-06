@@ -12,6 +12,10 @@ midgame   = "Mid game (Atris - ?)"
 lategame  = "Late game (?)"
 
 [extra.map.feats]
+"Class Skill: Computer Use" = [
+  "KotORII_Feat_Class_Skill_Computer_Use.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill"
+]
 "Class Skill: Demolitions" = [
   "KotORII_Feat_Class_Skill_Demolitions.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill"
@@ -71,6 +75,10 @@ lategame  = "Late game (?)"
 "Rapid Shot" = [
   "KotORII_Feat_Rapid_Shot.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Rapid_Shot"
+]
+"Regenerate: Force Points" = [
+  "KotORII_Feat_Regenerate_Force_Points.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Regenerate"
 ]
 "Toughness" = [
   "KotORII_Feat_Toughness.png",
@@ -140,13 +148,29 @@ lategame  = "Late game (?)"
   "KotORII_Power_Burst_of_Speed.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"
 ]
+"Choke" = [
+  "KotORII_Power_Choke.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Wound"
+]
+"Disable Droid" = [
+  "KotORII_Power_Disable_Droid.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Stun_Droid"
+]
 "Dominate Mind" = [
   "KotORII_Power_Dominate_Mind.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Mind_Trick"
 ]
+"Drain Life" = [
+  "KotORII_Power_Drain_Life.png",
+  "https://strategywiki.org/wiki/File:KotORII_Power_Drain_Life.png"
+]
 "Energy Resistance" = [
   "KotORII_Power_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
+]
+"Fear" = [
+  "KotORII_Power_Fear.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Fear"
 ]
 "Force Armor" = [
   "KotORII_Power_Force_Armor.png",
@@ -163,6 +187,10 @@ lategame  = "Late game (?)"
 "Force Deflection" = [
   "KotORII_Power_Force_Deflection.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Deflection"
+]
+"Force Lightning" = [
+  "KotORII_Power_Force_Lightning.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Shock"
 ]
 "Force Push" = [
   "KotORII_Power_Force_Push.png",
@@ -183,6 +211,10 @@ lategame  = "Late game (?)"
 "Heal" = [
   "KotORII_Power_Heal.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Heal"
+]
+"Horror" = [
+  "KotORII_Power_Horror.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Fear"
 ]
 "Improved Battle Meditation" = [
   "KotORII_Power_Improved_Battle_Meditation.png",
@@ -236,9 +268,21 @@ lategame  = "Late game (?)"
   "KotORII_Power_Plague.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Slow"
 ]
+"Shock" = [
+  "KotORII_Power_Shock.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Shock"
+]
 "Slow" = [
   "KotORII_Power_Slow.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Slow"
+]
+"Stun Droid" = [
+  "KotORII_Power_Stun_Droid.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Stun_Droid"
+]
+"Wound" = [
+  "KotORII_Power_Wound.png",
+  "https://strategywiki.org/wiki/File:KotORII_Power_Wound.png"
 ]
 [extra.map.equipement]
 "Aratech Echo Belt" = [
