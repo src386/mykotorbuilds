@@ -33,6 +33,8 @@ status      = "TODO"
   7  = ["Disable Droid"]
   8  = ["Battle Meditation"]
   9  = ["Force Lightning", "Choke"] # 2 powers
+  10 = ["Drain Life"]
+  11 = []
 
   [extra.skills]
   # Levels        =  1, 4, 8, 12, 16, 20, 24, 28

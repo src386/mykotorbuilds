@@ -159,6 +159,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Dominate_Mind.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Mind_Trick"
 ]
+"Drain Life" = [
+  "KotORII_Power_Drain_Life.png",
+  "https://strategywiki.org/wiki/File:KotORII_Power_Drain_Life.png"
+]
 "Energy Resistance" = [
   "KotORII_Power_Energy_Resistance.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Energy_Resistance"
