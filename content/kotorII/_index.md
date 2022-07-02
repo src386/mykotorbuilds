@@ -232,6 +232,14 @@ lategame  = "Late game (?)"
   "KotORII_Power_Improved_Heal.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Heal"
 ]
+"Insanity" = [
+  "KotORII_Power_Insanity.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Fear"
+]
+"Kill" = [
+  "KotORII_Power_Kill.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Wound"
+]
 "Knight Speed" = [
   "KotORII_Power_Knight_Speed.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Burst_of_Speed"

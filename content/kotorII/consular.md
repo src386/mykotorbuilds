@@ -21,7 +21,7 @@ status      = "TODO"
   3  = "Toughness"
   6  = "Regenerate: Force Points"
   9  = "Improved Toughness"
-  12 = ""
+  12 = "Master Toughness"
   15 = ""
 
   [extra.powers]
@@ -34,21 +34,20 @@ status      = "TODO"
   8  = ["Battle Meditation"]
   9  = ["Force Lightning", "Choke"] # 2 powers
   10 = ["Drain Life"]
-  11 = []
+  11 = ["Force Push"]
+  12 = ["Insanity", "Kill"]
+
 
   [extra.skills]
-  # Levels        =  1, 4, 8, 12, 16, 20, 24, 28
-  "Computer Use"  = [0, 6, 10]
-  "Demolitions"   = [2, 2, 2]
-  "Stealth"       = [0, 0, 0]
-  "Awareness"     = [2, 4, 8]
-  "Persuade"      = [4, 6, 10]
-  "Repair"        = [4, 6, 10]
-  "Security"      = [1, 1, 1]
-  "Treat Injury"  = [0, 0, 0]
-
-  # Level         1, 2, 3, 4
-  # Computer Use     +4
+  # Levels        =  1, 4, 8,  12, 16, 20, 24, 28
+  "Computer Use"  = [0, 6, 10, 13 ]
+  "Demolitions"   = [2, 2, 2,   2 ]
+  "Stealth"       = [0, 0, 0,   0]
+  "Awareness"     = [2, 4, 8,  13]
+  "Persuade"      = [4, 6, 10, 13]
+  "Repair"        = [4, 6, 10, 13]
+  "Security"      = [1, 1, 1,   1]
+  "Treat Injury"  = [0, 0, 0,   2]
 
   [extra.equipement]
   implant   = ["","",""]
