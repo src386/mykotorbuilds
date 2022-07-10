@@ -2,7 +2,7 @@
 
 *A website dedicated to KOTOR builds powered by Zola + Bulma.*
 
-[![Docker Image](https://github.com/src386/mykotorbuilds/actions/workflows/docker-ci.yml/badge.svg?branch=master)](https://github.com/src386/mykotorbuilds/actions/workflows/docker-ci.yml)
+[![Build Status](https://drone.src386.org/api/badges/src386/mykotorbuilds/status.svg)](https://drone.src386.org/src386/mykotorbuilds)
 
 ## Requirements
 
