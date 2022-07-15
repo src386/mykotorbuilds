@@ -9,12 +9,12 @@ status      = "TODO"
 
   [extra.attributes]
   # Levels     =  1, 4, 8, 12, 16, 20, 24, 28, 30.
-  strength     = [10,10,10]
-  dexterity    = [12,12,12]
-  constitution = [14,14,14]
-  intelligence = [14,14,14]
-  wisdom       = [14,15,16]
-  charisma     = [14,14,14]
+  strength     = [10,10,10,10]
+  dexterity    = [12,12,12,12]
+  constitution = [14,14,14,14]
+  intelligence = [14,14,14,14]
+  wisdom       = [14,15,16,17]
+  charisma     = [14,14,14,14]
 
   [extra.feats]
   1  = "Class Skill: Computer Use"
