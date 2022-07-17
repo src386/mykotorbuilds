@@ -4,7 +4,7 @@ description = ""
 
 [extra]
 class       = ["Jedi Consular",""]
-picture     = ""
+picture     = "/images/kalek_forn.jpg"
 status      = "TODO"
 
   [extra.attributes]
