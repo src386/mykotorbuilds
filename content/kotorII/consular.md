@@ -36,6 +36,8 @@ status      = "TODO"
   10 = ["Drain Life"]
   11 = ["Force Push"]
   12 = ["Insanity", "Kill"]
+  13 = ["Improved Heal"]
+  14 = ["Destroy Droid"]
 
 
   [extra.skills]
