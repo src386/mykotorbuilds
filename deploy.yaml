@@ -1,0 +1,30 @@
+# Usage:
+#
+# ansible-playbook -i 'kotorbuilds.src386.org,' -u root deploy.yaml
+#
+---
+- hosts: 'kotorbuilds.src386.org'
+
+  vars:
+    local_path: 'public/'
+    remote_path: '/var/www/htdocs/kotorbuilds.src386.org/'
+
+  tasks:
+    - name: Ensure static website is locally Built
+      command: flatpak run org.getzola.zola build
+      delegate_to: localhost
+
+    - name: Ensure website is remotely Deployed
+      synchronize:
+        src: "{{ local_path }}"
+        dest: "{{ remote_path }}"
+        archive: yes
+        delete: yes
+        recursive: yes
+
+    - name: Ensure website is Online
+      ansible.builtin.uri:
+        url: 'https://kotorbuilds.src386.org'
+        return_content: yes
+      register: http_response
+      failed_when: "'MY KOTOR BUILDS' not in http_response.content"
