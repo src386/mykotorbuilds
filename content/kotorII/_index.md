@@ -152,6 +152,10 @@ lategame  = "Late game (?)"
   "KotORII_Power_Choke.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Wound"
 ]
+"Destroy Droid" = [
+  "KotORII_Power_Destroy_Droid.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Stun_Droid"
+]
 "Disable Droid" = [
   "KotORII_Power_Disable_Droid.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Stun_Droid"
