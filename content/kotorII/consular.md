@@ -3,18 +3,18 @@ title       = "Consular"
 description = ""
 
 [extra]
-class       = ["Jedi Consular",""]
+class       = ["Jedi Consular (15)","Jedi Master (1)"]
 picture     = "/images/kalek_forn.jpg"
 status      = "TODO"
 
   [extra.attributes]
   # Levels     =  1, 4, 8, 12, 16, 20, 24, 28, 30.
-  strength     = [10,10,10,10]
-  dexterity    = [12,12,12,12]
-  constitution = [14,14,14,14]
-  intelligence = [14,14,14,14]
-  wisdom       = [14,15,16,17]
-  charisma     = [14,14,14,14]
+  strength     = [10,10,10,10,10]
+  dexterity    = [12,12,12,12,12]
+  constitution = [14,14,14,14,14]
+  intelligence = [14,14,14,14,14]
+  wisdom       = [14,15,16,17,18]
+  charisma     = [14,14,14,14,14]
 
   [extra.feats]
   1  = "Class Skill: Computer Use"
@@ -22,7 +22,8 @@ status      = "TODO"
   6  = "Regenerate: Force Points"
   9  = "Improved Toughness"
   12 = "Master Toughness"
-  15 = ""
+  15 = "Advanced Jedi Defense"
+  16 = "Master Jedi Defense"
 
   [extra.powers]
   2  = ["Stun Droid"]
@@ -38,18 +39,20 @@ status      = "TODO"
   12 = ["Insanity", "Kill"]
   13 = ["Improved Heal"]
   14 = ["Destroy Droid"]
+  15 = ["Afflication", "Plague"]
+  16 = ["Improved Battle Meditation", "Force Valor"]
 
 
   [extra.skills]
   # Levels        =  1, 4, 8,  12, 16, 20, 24, 28
-  "Computer Use"  = [0, 6, 10, 13 ]
-  "Demolitions"   = [2, 2, 2,   2 ]
-  "Stealth"       = [0, 0, 0,   0]
-  "Awareness"     = [2, 4, 8,  13]
-  "Persuade"      = [4, 6, 10, 13]
-  "Repair"        = [4, 6, 10, 13]
-  "Security"      = [1, 1, 1,   1]
-  "Treat Injury"  = [0, 0, 0,   2]
+  "Computer Use"  = [0, 6, 10, 13, 17]
+  "Demolitions"   = [2, 2, 2,   2,  2]
+  "Stealth"       = [0, 0, 0,   0,  0]
+  "Awareness"     = [2, 4, 8,  13, 17]
+  "Persuade"      = [4, 6, 10, 13, 17]
+  "Repair"        = [4, 6, 10, 13, 16]
+  "Security"      = [1, 1, 1,   1,  1]
+  "Treat Injury"  = [0, 0, 0,   2,  4]
 
   [extra.equipement]
   implant   = ["","",""]
