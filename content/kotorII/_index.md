@@ -12,6 +12,10 @@ midgame   = "Mid game (Atris - ?)"
 lategame  = "Late game (?)"
 
 [extra.map.feats]
+"Advanced Jedi Defense" = [
+  "KotORII_Feat_Advanced_Jedi_Defense.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Jedi_Defense"
+]
 "Class Skill: Computer Use" = [
   "KotORII_Feat_Class_Skill_Computer_Use.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Class_Skill"
@@ -39,6 +43,14 @@ lategame  = "Late game (?)"
 "Improved Two-Weapon Fighting" = [
   "KotORII_Feat_Improved_Two-Weapon_Fighting.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Two-Weapon_Fighting"
+]
+"Jedi Defense" = [
+  "KotORII_Feat_Jedi_Defense.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Jedi_Defense"
+]
+"Master Jedi Defense" = [
+  "KotORII_Feat_Master_Jedi_Defense.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Feats#Jedi_Defense"
 ]
 "Master Rapid Shot" = [
   "KotORII_Feat_Master_Rapid_Shot.png",
