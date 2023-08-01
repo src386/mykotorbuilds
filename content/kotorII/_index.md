@@ -220,9 +220,17 @@ lategame  = "Late game (?)"
   "KotORII_Power_Force_Shield.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Aura"
 ]
+"Force Storm" = [
+  "KotORII_Power_Force_Storm.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Shock"
+]
 "Force Valor" = [
   "KotORII_Power_Force_Valor.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Valor"
+]
+"Force Whirlwind" = [
+  "KotORII_Power_Force_Whirlwind.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Force_powers#Force_Push"
 ]
 "Heal" = [
   "KotORII_Power_Heal.png",
@@ -329,6 +337,10 @@ lategame  = "Late game (?)"
   "KotORII_Item_Stealth_Field_Generator.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Belts#Eriadu_Stealth_Unit"
 ]
+"Gray Jedi Robe" = [
+  "KotORII_Item_Gray_Jedi_Robe.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Robes#Gray_Jedi_Robe"
+]
 "Improved Automation Gloves" = [
   "KotORII_Item_Automation_Gloves.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Hands#Improved_Automation_Gloves"
@@ -340,6 +352,10 @@ lategame  = "Late game (?)"
 "Jal Shey Perception Gloves" = [
   "KotORII_Item_Jal_Shey_Perception_Gloves.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Hands#Jal_Shey_Perception_Gloves"
+]
+"Light Saber" = [
+  "KotORII_Item_Lightsaber,_Blue.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Lightsabers"
 ]
 "Mandalorian Disintegrator" = [
   "KotORII_Item_Mandalorian_Disintegrator.png",
@@ -364,6 +380,10 @@ lategame  = "Late game (?)"
 "Repeating Blaster Rifle" = [
   "KotORII_Item_Repeating_Blaster_Rifle.png",
   "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Blaster_rifles#Repeating_Blaster_Rifle"
+]
+"Short Light Saber" = [
+  "KotORII_Item_Short_Lightsaber,_Blue.png",
+  "https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Lightsabers#Short_Lightsaber"
 ]
 "Quickness D-Package" = [
   "KotORII_Item_Strength_D-Package.png",
