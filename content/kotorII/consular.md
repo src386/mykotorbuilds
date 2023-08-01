@@ -24,6 +24,7 @@ status      = "TODO"
   12 = "Master Toughness"
   15 = "Advanced Jedi Defense"
   16 = "Master Jedi Defense"
+  18 = "Two-Weapon Fighting"
 
   [extra.powers]
   2  = ["Stun Droid"]
@@ -41,6 +42,8 @@ status      = "TODO"
   14 = ["Destroy Droid"]
   15 = ["Afflication", "Plague"]
   16 = ["Improved Battle Meditation", "Force Valor"]
+  17 = ["Force Whirlwind"]
+  18 = ["Force Storm"]
 
 
   [extra.skills]
@@ -57,13 +60,13 @@ status      = "TODO"
   [extra.equipement]
   implant   = ["","",""]
   head      = ["","",""]
-  hand      = ["Jal Shey Perception Gloves","",""]
-  arm1      = ["Name's Armband","",""]
+  hand      = ["Jal Shey Perception Gloves","Jal Shey Perception Gloves",""]
+  arm1      = ["Name's Armband","Name's Armband",""]
   arm2      = ["","",""]
-  torso     = ["Baran Do Novice Robe","",""]
+  torso     = ["Baran Do Novice Robe","Gray Jedi Robe",""]
   belt      = ["","",""]
-  weapon1   = ["Repeating Blaster Rifle","",""]
-  weapon2   = ["","",""]
+  weapon1   = ["Repeating Blaster Rifle","Light Saber",""]
+  weapon2   = ["","Short Light Saber",""]
 
 +++
 
